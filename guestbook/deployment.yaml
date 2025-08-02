@@ -16,7 +16,8 @@ spec:
     spec:
       containers:
       - name: guestbook
-        image: nginx:1.23
+        image: praveendevops95/boardshack:latest
         ports:
         - containerPort: 80
+
 
